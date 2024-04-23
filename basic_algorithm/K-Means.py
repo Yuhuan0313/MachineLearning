@@ -1,6 +1,6 @@
 import numpy as np
 
-a
+
 class Kmeans:
     def __init__(self, data, K, t_max):
         self.data = data
